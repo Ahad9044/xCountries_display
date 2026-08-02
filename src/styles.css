@@ -1,0 +1,15 @@
+.flag-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 16px;
+}
+.display-flag {
+  border: 2px solid;
+  width: 150px;
+  height: 200px;
+}
+.image {
+  width: 150px;
+  height: 100px;
+}
